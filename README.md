@@ -39,6 +39,17 @@ To provide a seamless platform for users to book demos and enable businesses to 
 
 ## 📸 Screenshots
 (Add screenshots here: Booking UI, Slot selection, Confirmation, Activity timeline)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5901b486-1f83-444b-930f-0fd2355516bc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06cd52f1-dca7-49a7-88f1-3feb0c0d8b4d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e5f7a2b-409e-4f27-806b-2f22021da0ab" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d9c7fe5-4850-456e-95f5-e195db8ea235" />
+
+
+
+
+
+
+
 
 ## 🚀 Key Learning
 - Full-stack development within Salesforce ecosystem
